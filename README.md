@@ -1,47 +1,90 @@
-<h2 align="left">Hi 👋! My name is Mohamed Ahmed....</h2>
+<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
+<h3 align="center">Frontend Developer | Cybersecurity Enthusiast | Building Clean & Modern Web Experiences</h3>
 
-###
+<p align="center">
+  Passionate about creating modern, responsive, and user-focused web applications.<br>
+  I enjoy blending design, development, and problem-solving to build impactful digital experiences.
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohamed-ahmed-4205411bb/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="66" height="41" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/MohmedA71073463?t=1sujwFRwaGS-coondWCbPw&s=09" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="66" height="41" alt="twitter logo"  />
-  </a>
-  <a href="mohamedahmedelm88@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="66" height="41" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/mohmed_ahmed888?igsh=NTc4MTIwNjQ2YQ==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="66" height="41" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohmedahmed888&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohmedahmed888&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://www.linkedin.com/in/mohamed-ahmed-4205411bb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
+  </a>
+  <a href="https://x.com/MohmedA71073463?t=1sujwFRwaGS-coondWCbPw&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="twitter / x" />
+  </a>
+  <a href="mailto:mohamedahmedelm88@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail" />
+  </a>
+  <a href="https://www.instagram.com/mohmed_ahmed888?igsh=NTc4MTIwNjQ2YQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram" />
+  </a>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
+## 🚀 About Me
+
+- 💻 I enjoy building clean and responsive web interfaces
+- 🔐 Interested in cybersecurity and secure systems
+- 🌱 Currently improving my skills in full-stack development
+- 🎯 Focused on creating practical projects with real-world value
+- ⚡ I like modern UI, smooth UX, and elegant code
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,mysql,linux,git,github,vscode" />
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohmedahmed888&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohmedahmed888&layout=compact&theme=radical" height="165" alt="languages graph" />
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohmedahmed888&theme=radical&hide_border=false" height="165" alt="streak graph" />
+</div>
+
+---
+
+## 🧠 Current Focus
+
+- Building modern web projects
+- Improving backend and database skills
+- Learning more about security and system design
+- Creating projects that look premium and feel professional
+
+---
+
+## 🌍 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-ahmed-4205411bb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:mohamedahmedelm88@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.instagram.com/mohmed_ahmed888?igsh=NTc4MTIwNjQ2YQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohmedahmed888&label=Profile%20Views&color=ff0055&style=for-the-badge" alt="profile views" />
+</div>
