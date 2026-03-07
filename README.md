@@ -25,15 +25,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 💻 I enjoy building clean and responsive web interfaces
-- 🔐 Interested in cybersecurity and secure systems
-- 🌱 Currently improving my skills in full-stack development
-- 🎯 Focused on creating practical projects with real-world value
-- ⚡ I like modern UI, smooth UX, and elegant code
-
----
 
 ## 🛠 Tech Stack
 
