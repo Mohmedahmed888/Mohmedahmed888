@@ -22,16 +22,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-ahmed-4205411bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Ahmed-9090ff?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d18&color=3a3a5c" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Ahmed-9090ff?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d18&color=3a3a5c" />
   </a>
-  <a href="https://x.com/MohmedA71073463?t=1sujwFRwaGS-coondWCbPw&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/X-MohmedA71073463-9090ff?style=flat-square&logo=x&logoColor=white&labelColor=0d0d18&color=3a3a5c" alt="X">
+  <a href="https://x.com/MohmedA71073463" target="_blank">
+    <img src="https://img.shields.io/badge/X-MohmedA71073463-9090ff?style=flat-square&logo=x&logoColor=white&labelColor=0d0d18&color=3a3a5c" />
   </a>
   <a href="mailto:mohamedahmedelm88@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-9090ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d18&color=3a3a5c" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-Contact-9090ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d18&color=3a3a5c" />
   </a>
-  <a href="https://www.instagram.com/mohmed_ahmed888?igsh=NTc4MTIwNjQ2YQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-mohmed_ahmed888-9090ff?style=flat-square&logo=instagram&logoColor=white&labelColor=0d0d18&color=3a3a5c" alt="Instagram">
+  <a href="https://www.instagram.com/mohmed_ahmed888" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-mohmed_ahmed888-9090ff?style=flat-square&logo=instagram&logoColor=white&labelColor=0d0d18&color=3a3a5c" />
   </a>
 </p>
 
@@ -52,15 +52,15 @@
 <h3 align="center"><code>[ GITHUB STATS ]</code></h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohmedahmed888&theme=radical&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohmedahmed888&theme=radical&show_icons=true&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohmedahmed888&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img height="165" src="https://streak-stats.demolab.com?user=Mohmedahmed888&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmedahmed888&theme=radical&layout=compact&hide_border=true" alt="Top Languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmedahmed888&theme=radical&layout=compact&hide_border=true" />
 </div>
 
 <p align="center">
@@ -83,5 +83,5 @@
 <h3 align="center"><code>[ PROFILE VIEWS ]</code></h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohmedahmed888&label=Profile%20Views&color=9090ff&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mohmedahmed888&label=Profile%20Views&color=9090ff&style=flat-square" />
 </div>
