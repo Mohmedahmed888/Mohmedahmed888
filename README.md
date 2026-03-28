@@ -6,7 +6,8 @@
   <img src="https://raw.githubusercontent.com/I-am-Sm1l3/I-am-Sm1l3/refs/heads/main/separator.svg" width="100%">
 </p>
 
-<h3 align="center"><code>[ ABOUT ME ]</code></h3>
+<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
+<h3 align="center">Frontend Developer | Cybersecurity Enthusiast | Building Clean & Modern Web Experiences</h3>
 
 <p align="center">
   Passionate about creating modern, responsive, and user-focused web applications.<br>
